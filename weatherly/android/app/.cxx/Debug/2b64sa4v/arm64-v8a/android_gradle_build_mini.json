@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/deepak.rasalam@acsiatech.com/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/deepak.rasalam@acsiatech.com/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/weatherly/android/app/.cxx/Debug/2b64sa4v/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/deepak.rasalam@acsiatech.com/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/deepak.rasalam@acsiatech.com/AndroidStudioProjects/weatherly/android/app/.cxx/Debug/2b64sa4v/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
