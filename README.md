@@ -1,12 +1,23 @@
-# Weather-App
-Basic Weather App using Flutter 
+<div align='center'>
+
+<img src=https://github.com/user-attachments/assets/4bd5f0d5-ef64-42e2-9209-4f13844e377b alt="logo" width=30 height=70 />
+
+<h1>Weather App using Flutter </h1>
+<p>It is a basic Flutter Application for Live Weather Forecast </p>
+
+<h4> <span> · </span> <a href="https://github.com/DeepuzDeepu/Weather-App/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/DeepuzDeepu/Weather-App/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/DeepuzDeepu/Weather-App/issues"> Request Feature </a> </h4>
 
 
+</div>
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+- [License](#warning-license)
 
 
-# Screenshots
+## :star2: About the Project
 
-![Screenshot_20250408_172959](https://github.com/user-attachments/assets/4bd5f0d5-ef64-42e2-9209-4f13844e377b)
-![Screenshot_20250408_173031](https://github.com/user-attachments/assets/de810288-db11-42b1-b062-90c0832bfa34)
+## :warning: License
 
-
+Distributed under the no License. See LICENSE.txt for more information.
